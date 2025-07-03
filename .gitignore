@@ -1,3 +1,15 @@
+Additional Files to Include:
+
+   **`.gitignore`**  
+   ```gitignore
+   __pycache__/
+   .ipynb_checkpoints/
+   *.h5
+   *.keras
+   *.ckpt
+   *.tar.gz
+   *.zip
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
