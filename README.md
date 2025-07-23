@@ -1,10 +1,10 @@
-# DeepLearning.AI TensorFlow Developer Specialization – Course 01: Convolutional Neural Networks
+# DeepLearning.AI TensorFlow Developer Specialization
 
-This repository contains my work and notes from **Course 01: Convolutional Neural Networks with TensorFlow**, the first course in the [DeepLearning.AI TensorFlow Developer Specialization](https://www.coursera.org/professional-certificates/tensorflow-in-practice) on Coursera.
+This repository contains my work and notes from courses in the [DeepLearning.AI TensorFlow Developer Specialization](https://www.coursera.org/professional-certificates/tensorflow-in-practice) on Coursera.
 
-## Course 01 Overview
+## Overview
 
-In this course, I learned to build and train **Convolutional Neural Networks (CNNs)** using TensorFlow and Keras. The course involved working with real-world image datasets and implementing neural networks that can recognize patterns in complex visual data.
+In this courses, I learned to build and train **Convolutional Neural Networks (CNNs)** using TensorFlow and Keras. The course involved working with real-world image datasets and implementing neural networks that can recognize patterns in complex visual data.
 
 ### Key Concepts Covered
 - TensorFlow & Keras fundamentals for computer vision tasks
