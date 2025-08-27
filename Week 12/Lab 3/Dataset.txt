@@ -1,0 +1,3 @@
+1: https://mcekpzplvcea.labs.coursera.org/lab/tree/lab_3/data
+2: https://mcekpzplvcea.labs.coursera.org/lab/tree/lab_3/img
+3: https://mcekpzplvcea.labs.coursera.org/lab/tree/lab_3/one_step
