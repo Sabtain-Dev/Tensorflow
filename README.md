@@ -7,13 +7,22 @@ This repository contains my work and notes from courses in the [DeepLearning.AI 
 In this courses, I learned to build and train **Convolutional Neural Networks (CNNs)** using TensorFlow and Keras. The course involved working with real-world image datasets and implementing neural networks that can recognize patterns in complex visual data.
 
 ### Key Concepts Covered
-- TensorFlow & Keras fundamentals for computer vision tasks
-- Implementing CNNs using `Conv2D`, `MaxPooling2D`, `Dense`, `Flatten`, and `Dropout`
-- Image preprocessing and normalization using `Rescaling` layers
-- Custom training callbacks for early stopping
-- Dataset creation using `image_dataset_from_directory` and `tf.data`
-- Feature map visualization to interpret model behavior
-- Real-time image classification using Jupyter widgets
+- Learn best practices for using TensorFlow, a popular open-source machine learning framework
+- Build a basic neural network in TensorFlow
+- Train a neural network for a computer vision application
+- Understand how to use convolutions to improve your neural network
+- Handle real-world image data
+- Plot loss and accuracy
+- Explore strategies to prevent overfitting, including augmentation and dropout
+- Learn transfer learning and how learned features can be extracted from models
+- Build natural language processing systems using TensorFlow
+- Process text, including tokenization and representing sentences as vectors
+- Apply RNNs, GRUs, and LSTMs in TensorFlow
+- Train LSTMs on existing text to create original poetry and more
+- Solve time series and forecasting problems in TensorFlow
+- Prepare data for time series learning using best practices
+- Explore how RNNs and ConvNets can be used for predictions
+- Build a sunspot prediction model using real-world data
 
 ---
 
@@ -39,6 +48,12 @@ Tensorflow/
 - ├── Week8/
 - ├── Week9/
 - ├── Week10/
+- ├── Week11/
+- ├── Week12/
+- ├── Week13/
+- ├── Week14/
+- ├── Week15/
+- ├── Week16/
 - └── README.md
 
 
